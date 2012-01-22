@@ -1,0 +1,26 @@
+/* 
+    Document   : vui.css
+    Created on : 22 Jan, 2012, 3:28:14 PM
+    Author     : karthi
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+.vui-dialog{    
+    border: 2px solid #000000;
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    z-index: 5000;
+    display: none;
+    background-color: #ffffff;
+}
+
+.vui-dialog-content{
+    padding: 5px;
+    margin-top:  -10px;
+}

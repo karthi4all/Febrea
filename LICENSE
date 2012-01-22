@@ -1,0 +1,22 @@
+
+ Copyright (c) 2012, karthi.m(karthi4all@gmail.com)
+ 
+ This source code is licensed under Open source license GPL v3
+ 
+ For license refer http://www.gnu.org/copyleft/gpl.html
+ 
+ ------------------------------------------------------------------------
+ The following are the files which are licensed as above
+ 
+ /VISUALUI.js
+ /VUIDialog.js
+ /index.html
+ 
+ ----------------------------------------------------------------------------
+ The other third party libraries found in this folder such as,
+ 
+ jquery
+ cufon-yui
+ 
+ have their own license and these libraries are not part of this project
+ 
